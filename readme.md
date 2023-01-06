@@ -1,4 +1,4 @@
-# Klikacz obrazkowy
+# Klikacz obrazkowy gg
 
 ## opis
 lorem
